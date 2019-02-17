@@ -1,0 +1,22 @@
+{
+  "name": "octex",
+  "version": "1.0.0",
+  "authors": [
+    "dannibla <dannibla@github.com>"
+  ],
+  "description": "Octex Dashboard is a Bootstrap Admin Template for Startup Project - An Open Source Admin Template by Maskend.",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {   
+  },
+  "homepage": "https://github.com/maskend/octex",
+  "main": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/",
+    "test",
+    "tests"
+  ]
+}
