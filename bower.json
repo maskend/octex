@@ -7,7 +7,14 @@
   "description": "Octex Dashboard is a Bootstrap Admin Template for Startup Project - An Open Source Admin Template by Maskend.",
   "license": "MIT",
   "private": false,
-  "dependencies": {   
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.3.1",
+    "popper.js": "^1.14.7",
+    "Font-Awesome": "^5.7.2",
+    "animate.css": "^3.7.0",
+    "jquery.scrollbar": "^0.2.11",
+    "jquery.slimscroll": "^1.3.8"
   },
   "homepage": "https://github.com/maskend/octex",
   "main": "",
