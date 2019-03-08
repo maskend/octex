@@ -1970,13 +1970,8 @@ p.text-muted {
     }
 
         .octex-header .dropdown .dropdown-toggle:after {
-            content: "\e842";
-            font-family: 'feather';
-            font-size: 15px;
-            border: none;
-            position: absolute;
-            top: 0;
-            right: 15px;
+            vertical-align: middle;
+            margin-left: .5em;
         }
 
     .octex-header .dropdown .dropdown-menu {
