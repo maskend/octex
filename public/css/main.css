@@ -2437,19 +2437,15 @@ p.text-muted {
                         top: 11px;
                     }
 
-            .octex-navbar .octex-inner-navbar li.octex-hasmenu > a:after {
-                content: "\e844";
-                font-family: 'feather';
-                font-size: 15px;
-                border: none;
+            .octex-navbar .octex-inner-navbar li.octex-hasmenu > a > i.fa-caret-right {
                 position: absolute;
-                top: 11px;
+                top: 15px;
                 right: 20px;
                 -webkit-transition: 0.3s ease-in-out;
                 transition: 0.3s ease-in-out;
             }
 
-            .octex-navbar .octex-inner-navbar li.octex-hasmenu.octex-trigger > a:after {
+            .octex-navbar .octex-inner-navbar li.octex-hasmenu.octex-trigger > a > i.fa-caret-right {
                 -webkit-transform: rotate(90deg);
                 transform: rotate(90deg);
             }
